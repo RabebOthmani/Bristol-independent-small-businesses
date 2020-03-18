@@ -2,8 +2,8 @@
 
 The entire world is going through harsh times at the moment. In order to stop the virus spreading any further, the recommendation is to stay home, social distancing and avoid any unnecessary travel and outing. 
 
-Supporting small independent businesses in Bristol is possible even when staying in by ordering takeaways/takeouts/deliveries. 
-Please feel free to add any independant shops here. 
+Supporting small independent businesses in Bristol is possible even when staying in by ordering takeaways/takeouts/deliveries. Remember to tip well and limit exposure for delivery drivers. 
+Please feel free to add any independent shops here. 
 
 ## Are delivery services safe? 
 
