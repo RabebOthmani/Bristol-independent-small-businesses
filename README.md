@@ -1,4 +1,4 @@
-# Bristol-independent-small-businesses
+# A crowd-sourced of Bristol independent small businesses
 
 The entire world is going through harsh times at the moment. In order to stop the virus spreading any further, the recommendation is to stay home, social distancing and avoid any unnecessary travel and outing. 
 
