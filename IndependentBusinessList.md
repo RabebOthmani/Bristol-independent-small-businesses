@@ -6,3 +6,4 @@
 | 25A Old Market                       | Coffee shop               | (https://www.fcp.coffee/)       | Takeout                                                           |
 | The Bristol Cheesemonger             | Specialist cheesemongers  | (https://www.bristol-cheese.co.uk/)| home delivery, online shop available                           |
 | La Sorella food and wine             | Lasagne & aperitivo bar   | (https://www.lasorella.co.uk/)     | home delivery                                                  |
+| A Capella Cafe                       | Pizza, tapas              | (https://www.acappellas.co.uk/)    | home delivery, Tues-Sat 12pm-10pm                              |
