@@ -7,5 +7,5 @@
 | The Bristol Cheesemonger             | Specialist cheesemongers  | (https://www.bristol-cheese.co.uk/)| home delivery, online shop available                           |
 | La Sorella food and wine             | Lasagne & aperitivo bar   | (https://www.lasorella.co.uk/)     | home delivery                                                  |
 | A Capella Cafe                       | Pizza, tapas              | (https://www.acappellas.co.uk/)    | home delivery, Tues-Sat 12pm-10pm                              |
-| Taste Of Napoli                      | Pizza, Sandwiches         | (https://tasteofnapoli.co.uk/)    | home delivery, Mon-Thu 09am-6pm Fri & Sat 09am-08pm Sun09am-07pm                              |
-| Grano Kitchen                     | Italian food              | (https://granokitchen.com//)    | home delivery, Tues-Sat 12pm-3:30pm Dinner Weds-Sat 5:30pm-9:30pm                             |
+| Taste Of Napoli                      | Pizza, Sandwiches, Italian food       | (https://tasteofnapoli.co.uk/)    | home delivery, Mon-Thu 09am-6pm Fri & Sat 09am-08pm Sun 09am-07pm                              |
+| Grano Kitchen                     | Italian food, Pizza, Focaccia              | (https://granokitchen.com//)    | home delivery, Tues-Sat 12pm-3:30pm Dinner Weds-Sat 5:30pm-9:30pm                             |
